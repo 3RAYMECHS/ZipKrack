@@ -1,6 +1,6 @@
 #!/use/bin/evn python3
-# https://github.com/Cyber-Anonymous
-# Author - Sajjad
+# https://github.com/3RAYMECHS
+# Author - 3 RAY MECHS
 
 from zipfile import ZipFile
 import sys
@@ -52,7 +52,7 @@ print("""\033[1;96m
    / /| | '_ \| ' /| '__/ _` |/ __| |/ /
   / /_| | |_) | . \| | | (_| | (__|   <
  /____|_| .__/|_|\_\_|  \__,_|\___|_|\_\\
-        |_|              Cyber Anonymous
+        |_|              3 RAY MECHS
 
 
 \033[0;0m""")
